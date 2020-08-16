@@ -12,7 +12,7 @@ Here is the link to view a video on my project :
 
 ![award]({{site.url}}/portfolio/images/cetiasia/award.jpg)
 
-https://www.youtube.com/watch?v=zl2T3LcxGsM
+[Youtube](https://www.youtube.com/watch?v=zl2T3LcxGsM)
 
 So basically, what is this project about?
 
