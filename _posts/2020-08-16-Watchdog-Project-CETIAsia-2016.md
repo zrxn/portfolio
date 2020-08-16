@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=zl2T3LcxGsM
 
 So basically, what is this project about?
 
-![top10]({{site.url}}/portfolio/images/cetiasia/top10.jpg)
+![top10]({{site.url}}/portfolio/images/cetiasia/top10.png)
 
 I was having Intern at a Small-Medium Enterprise (based in Singapore) which provides various types of commercial solutions from Self – Service kiosk to Digital Signage which make use of Media Box to run the software to display its’ contents and run its’ applications. With over few thousands of its’ products throughout the whole of Singapore, we faced problems from the Media Box it uses like:
 
