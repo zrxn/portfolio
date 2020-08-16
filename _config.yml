@@ -22,7 +22,7 @@ title: Lew's
 email: ren97.lew@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A sophomore over at Singapore Management University.
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: /portfolio # the subpath of your site, e.g. /blog
 url: "https://zrxn.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zrxn
 github_username:  zrxn

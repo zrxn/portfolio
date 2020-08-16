@@ -10,7 +10,7 @@ Prize appreciation ceremony with Mr. George Choo (Seito Singapore)
 
 Here is the link to view a video on my project :
 
-![award]({{ "/images/award.jpeg" | absolute_url }})
+![award](/images/award.jpg)
 
 https://www.youtube.com/watch?v=zl2T3LcxGsM
 
