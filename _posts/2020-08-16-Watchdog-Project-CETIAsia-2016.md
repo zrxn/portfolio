@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Watchdog Project – CETIAsia 2016"
-date:   2016-12-16 20:27:56 +0800
+date:   2020-08-16 20:27:56 +0800
 categories: jekyll update
 ---
 Well today, we are attending CETIAsia 2016 challenge. My watchdog project have been selected under the top 10 finalist!
