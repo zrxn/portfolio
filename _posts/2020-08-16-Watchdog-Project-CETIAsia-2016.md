@@ -8,11 +8,11 @@ Well today, we are attending CETIAsia 2016 challenge. My watchdog project have b
 
 Prize appreciation ceremony with Mr. George Choo (Seito Singapore)
 
-Here is the link to view a video on my project :
+Here is the link to view a video on my project : [Youtube](https://www.youtube.com/watch?v=zl2T3LcxGsM)
 
 ![award]({{site.url}}/portfolio/images/cetiasia/award.jpg)
 
-[Youtube](https://www.youtube.com/watch?v=zl2T3LcxGsM)
+
 
 So basically, what is this project about?
 
