@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=zl2T3LcxGsM
 
 So basically, what is this project about?
 
-![award]({{site.url}}/portfolio/images/cetiasia/top10.jpg)
+![top10]({{site.url}}/portfolio/images/cetiasia/top10.jpg)
 
 I was having Intern at a Small-Medium Enterprise (based in Singapore) which provides various types of commercial solutions from Self – Service kiosk to Digital Signage which make use of Media Box to run the software to display its’ contents and run its’ applications. With over few thousands of its’ products throughout the whole of Singapore, we faced problems from the Media Box it uses like:
 
@@ -78,22 +78,22 @@ With the advancement in technology, many companies have started to use android m
 
 For operating hours of company, staff would have to be responsible for the operational hours of the device. We have included a Real-Time Clock and programmed it to be able to schedule a time on and off in case the staff have forgotten to either power on or off.
 
-![award]({{site.url}}/portfolio/images/cetiasia/3d-pcb.jpg)
+![3d-pcb]({{site.url}}/portfolio/images/cetiasia/3d-pcb.png)
 
 Custom Printed Circuit Board built using Altium Designer specifically for this project.
 
-![award]({{site.url}}/portfolio/images/cetiasia/arduino.jpg)
-![award]({{site.url}}/portfolio/images/cetiasia/android.jpg)
+![arduino]({{site.url}}/portfolio/images/cetiasia/arduino.png)
+![android]({{site.url}}/portfolio/images/cetiasia/android.png)
 
 Programming of Arduino Uno and Android MediaBox.
 
-![award]({{site.url}}/portfolio/images/cetiasia/wcy.jpg)
+![wcy]({{site.url}}/portfolio/images/cetiasia/wcy.jpg)
 
 CETIAsia Exhibition of Watchdog Project at Expo with my supervisor.
 
-![award]({{site.url}}/portfolio/images/cetiasia/exhibit1.jpg)
-![award]({{site.url}}/portfolio/images/cetiasia/exhibit2.jpg)
-![award]({{site.url}}/portfolio/images/cetiasia/exhibit3.jpg)
+![exhibit1]({{site.url}}/portfolio/images/cetiasia/exhibit1.jpg)
+![exhibit2]({{site.url}}/portfolio/images/cetiasia/exhibit2.jpg)
+![exhibit3]({{site.url}}/portfolio/images/cetiasia/exhibit3.jpg)
 
 Presenting my project to judges from overseas.
 
