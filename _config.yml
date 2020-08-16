@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lew's
+title: B R Lew
 email: ren97.lew@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A sophomore over at Singapore Management University.
 baseurl: /portfolio # the subpath of your site, e.g. /blog
-url: "https://zrxn.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: zrxn
-github_username:  zrxn
+url: "https://brlew.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: zrxn
+github_username:  brlew
 
 # Build settings
 theme: minima
