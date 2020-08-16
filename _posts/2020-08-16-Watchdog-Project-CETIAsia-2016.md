@@ -97,4 +97,4 @@ CETIAsia Exhibition of Watchdog Project at Expo with my supervisor.
 
 Presenting my project to judges from overseas.
 
-You can contact me via email if you would like to know more about this project!
+You can contact me via email if you would like to know more about this project.
